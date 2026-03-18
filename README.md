@@ -42,24 +42,6 @@ He trabajado en soluciones end-to-end, desde arquitectura hasta despliegue en pr
 
 ---
 
-## 🚀 Featured Projects
-
-> Aquí estaré publicando algunos de mis proyectos personales y experimentos técnicos.
-
-- 🔹 **Project Name 1**  
-  Breve descripción del problema que resuelve  
-  👉 https://github.com/tu-usuario/project-1
-
-- 🔹 **Project Name 2**  
-  Breve descripción del enfoque técnico  
-  👉 https://github.com/tu-usuario/project-2
-
-- 🔹 **Project Name 3**  
-  Qué lo hace interesante / diferencial  
-  👉 https://github.com/tu-usuario/project-3
-
----
-
 ## 💡 About Me
 
 Me enfoco en construir software que no solo funcione, sino que sea **mantenible, escalable y alineado con objetivos de negocio**. Disfruto trabajar en problemas complejos relacionados con datos, integraciones y arquitectura de sistemas.
@@ -68,8 +50,8 @@ Me enfoco en construir software que no solo funcione, sino que sea **mantenible,
 
 ## 📫 Contact
 
-- LinkedIn: https://linkedin.com/in/tu-perfil
-- Email: tu-email@ejemplo.com
+- LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sofranco92/)
+- Email: sofranco92@hotmail.com
 
 ---
 
