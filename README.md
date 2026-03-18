@@ -2,19 +2,19 @@
 
 ### Full Stack Developer | Laravel Specialist | Backend & Data Integrations
 
-Desarrollador Full Stack con enfoque en backend, procesamiento de datos e integraciones complejas. Especializado en Laravel y Livewire, diseño y construyo sistemas que conectan múltiples fuentes de información (CRMs, APIs externas, pipelines de datos) para resolver problemas reales de negocio.
+Full Stack Developer with a strong focus on backend development, data processing, and complex system integrations. Specialized in Laravel and Livewire, I design and build systems that connect multiple data sources (CRMs, external APIs, data pipelines) to solve real business problems.
 
-He trabajado en soluciones end-to-end, desde arquitectura hasta despliegue en producción, incluyendo plataformas de datos, automatización de procesos, e-commerce e intranets empresariales.
+I have experience delivering end-to-end solutions, from architecture and system design to production deployment, including data platforms, process automation systems, e-commerce solutions, and enterprise intranets.
 
 ---
 
 ## 🧠 What I Do Best
 
-- 🔗 Integración de APIs y sistemas externos (CRMs, proveedores, data sources)
-- 🧱 Arquitectura backend robusta y escalable
-- 📊 Procesamiento y modelado de datos (relacional y NoSQL)
-- ⚙️ Automatización de procesos y workflows
-- ☁️ Despliegue y operación en cloud (AWS, GCP, Azure)
+- 🔗 API integrations and external system connectivity (CRMs, providers, data sources)
+- 🧱 Scalable and maintainable backend architecture
+- 📊 Data processing and modeling (relational and NoSQL)
+- ⚙️ Process automation and workflow optimization
+- ☁️ Cloud deployment and operations (AWS, GCP, Azure)
 
 ---
 
@@ -32,8 +32,8 @@ He trabajado en soluciones end-to-end, desde arquitectura hasta despliegue en pr
 
 **Cloud & DevOps**
 - AWS / GCP / Azure
-- Docker (si aplica)
-- CI/CD (si aplica)
+- Docker (if applicable)
+- CI/CD (if applicable)
 
 **Other**
 - System integrations
@@ -44,17 +44,17 @@ He trabajado en soluciones end-to-end, desde arquitectura hasta despliegue en pr
 
 ## 💡 About Me
 
-Me enfoco en construir software que no solo funcione, sino que sea **mantenible, escalable y alineado con objetivos de negocio**. Disfruto trabajar en problemas complejos relacionados con datos, integraciones y arquitectura de sistemas.
+I focus on building software that is not only functional, but also **maintainable, scalable, and aligned with business goals**. I enjoy working on complex problems involving data, system integrations, and backend architecture.
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [https://linkedin.com/in/tu-perfil](https://www.linkedin.com/in/sofranco92/)
+- LinkedIn: [https://www.linkedin.com/in/sofranco92/](https://www.linkedin.com/in/sofranco92/)
 - Email: sofranco92@hotmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-Siempre estoy explorando nuevas formas de optimizar sistemas y trabajar con datos a escala 🚀
+Always exploring new ways to optimize systems and work with data at scale 🚀
