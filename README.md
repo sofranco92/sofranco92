@@ -1,60 +1,75 @@
 # 👋 Hi, I'm Samir Franco
 
-### Full Stack Developer | Laravel Specialist | Backend & Data Integrations
+### Full Stack Developer | Laravel Specialist | Backend Architecture & Data Integrations
 
-Full Stack Developer with a strong focus on backend development, data processing, and complex system integrations. Specialized in Laravel and Livewire, I design and build systems that connect multiple data sources (CRMs, external APIs, data pipelines) to solve real business problems.
+Full Stack Developer with 10+ years of experience in technology, specialized in **Laravel and backend systems focused on data processing and complex integrations**.
 
-I have experience delivering end-to-end solutions, from architecture and system design to production deployment, including data platforms, process automation systems, e-commerce solutions, and enterprise intranets.
+I design and build scalable systems using the Laravel ecosystem (Livewire, Filament, official integrations, and packages like Bagisto), delivering robust solutions for e-commerce, automation, and enterprise platforms.
+
+I’ve worked on backend architectures that integrate multiple systems such as CRMs, contact centers, e-commerce platforms, and automation tools through REST APIs, Webhooks, and high-volume data processing.
 
 ---
 
-## 🧠 What I Do Best
+## 🧠 Core Expertise
 
-- 🔗 API integrations and external system connectivity (CRMs, providers, data sources)
-- 🧱 Scalable and maintainable backend architecture
-- 📊 Data processing and modeling (relational and NoSQL)
-- ⚙️ Process automation and workflow optimization
-- ☁️ Cloud deployment and operations (AWS, GCP, Azure)
+- 🔗 API integrations & external systems (CRMs, providers, third-party services)
+- 🧱 Backend architecture (scalable, maintainable systems)
+- 📊 Data processing & modeling (relational and NoSQL)
+- ⚙️ Automation workflows & business process optimization
+- ☁️ Cloud infrastructure & deployments (AWS, GCP, Azure)
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Backend**
+### Backend
 - Laravel / PHP
-- Livewire
-- REST APIs
-- Queues & Jobs
+- Livewire, Filament
+- REST APIs, Webhooks
+- Queues, Jobs & Background Processing
 
-**Databases**
+### Data & Databases
 - MySQL / PostgreSQL
-- MongoDB (NoSQL)
+- MongoDB
+- Data pipelines & ETL processes
 
-**Cloud & DevOps**
+### Cloud & Infrastructure
 - AWS / GCP / Azure
-- Docker (if applicable)
-- CI/CD (if applicable)
+- Linux servers
+- On-premise infrastructure (VMware, physical servers)
 
-**Other**
-- System integrations
-- Data pipelines
-- Security best practices
+### Additional Experience
+- Python
+- Node.js (Express)
+- React
+- WordPress
+- Frontend frameworks (Bootstrap, Tailwind, Materialize)
 
 ---
 
-## 💡 About Me
+## 🚀 What I Focus On
 
-I focus on building software that is not only functional, but also **maintainable, scalable, and aligned with business goals**. I enjoy working on complex problems involving data, system integrations, and backend architecture.
+I build systems that are:
+
+- Scalable and performance-oriented  
+- Maintainable over time  
+- Aligned with real business needs  
+
+Most of my work revolves around:
+
+- Backend architecture  
+- Data pipelines & integrations  
+- Process automation  
 
 ---
 
 ## 📫 Contact
 
-- LinkedIn: [https://www.linkedin.com/in/sofranco92/](https://www.linkedin.com/in/sofranco92/)
+- LinkedIn: https://www.linkedin.com/in/sofranco92/
 - Email: sofranco92@hotmail.com
 
 ---
 
 ## ⚡ Fun Fact
 
-Always exploring new ways to optimize systems and work with data at scale 🚀
+I enjoy solving complex problems involving data, integrations, and system design — always looking for ways to make systems more efficient 🚀
